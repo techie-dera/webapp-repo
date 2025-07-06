@@ -4,7 +4,7 @@ image:
   repository: techiedera/webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "16101093586"
+  tag: "16101124902"
 
 ingress:
   enabled: false
